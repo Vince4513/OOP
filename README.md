@@ -1,5 +1,5 @@
 # OOP
-Creation of a station in Java  
+Creation of a sky station in Java  
 
 ## First step
 Create the core of the project (package solveur)  
