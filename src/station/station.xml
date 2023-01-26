@@ -1,0 +1,989 @@
+<docbase>
+<point>
+	<numero>1</numero>
+	<nom>villaroger</nom>
+	<altitude>1200</altitude>
+	<x>5</x>
+	<y>28</y>
+</point>
+<point>
+	<numero>2</numero>
+	<nom>2</nom>
+	<altitude>1425</altitude>
+</point>
+<point>
+	<numero>3</numero>
+	<nom>3</nom>
+	<altitude>2135</altitude>
+</point>
+<point>
+	<numero>4</numero>
+	<nom>4</nom>
+	<altitude>2458</altitude>
+</point>
+<point>
+	<numero>5</numero>
+	<nom>aiguille-rouge</nom>
+	<altitude>3226</altitude>
+	<x>21</x>
+	<y>9</y>
+</point>
+<point>
+	<numero>6</numero>
+	<nom>6</nom>
+	<altitude>2158</altitude>
+</point>
+<point>
+	<numero>7</numero>
+	<nom>arc2000</nom>
+	<altitude>2120</altitude>
+	<x>21</x>
+	<y>19</y>
+</point>
+<point>
+	<numero>8</numero>
+	<nom>pre-saint-esprit</nom>
+	<altitude>1822</altitude>
+	<x>26</x>
+	<y>18</y>
+</point>
+<point>
+	<numero>9</numero>
+	<nom>9</nom>
+	<altitude>2120</altitude>
+</point>
+<point>
+	<numero>10</numero>
+	<nom>10</nom>
+	<altitude>2015</altitude>
+</point>
+<point>
+	<numero>11</numero>
+	<nom>11</nom>
+	<altitude>2195</altitude>
+</point>
+<point>
+	<numero>12</numero>
+	<nom>12</nom>
+	<altitude>2670</altitude>
+</point>
+<point>
+	<numero>13</numero>
+	<nom>grand-col</nom>
+	<altitude>2835</altitude>
+	<x>26</x>
+	<y>11</y>
+</point>
+<point>
+	<numero>14</numero>
+	<nom>14</nom>
+	<altitude>2446</altitude>
+</point>
+<point>
+	<numero>15</numero>
+	<nom>arpette</nom>
+	<altitude>2418</altitude>
+	<x>29</x>
+	<y>17</y>
+</point>
+<point>
+	<numero>16</numero>
+	<nom>16</nom>
+	<altitude>2296</altitude>
+</point>
+<point>
+	<numero>17</numero>
+	<nom>17</nom>
+	<altitude>2375</altitude>
+</point>
+<point>
+	<numero>18</numero>
+	<nom>18</nom>
+	<altitude>2314</altitude>
+</point>
+<point>
+	<numero>19</numero>
+	<nom>deux-tetes</nom>
+	<altitude>2285</altitude>
+	<x>27</x>
+	<y>19</y>
+</point>
+<point>
+	<numero>20</numero>
+	<nom>20</nom>
+	<altitude>2063</altitude>
+</point>
+<point>
+	<numero>21</numero>
+	<nom>21</nom>
+	<altitude>2160</altitude>
+</point>
+<point>
+	<numero>22</numero>
+	<nom>22</nom>
+	<altitude>2230</altitude>
+</point>
+<point>
+	<numero>23</numero>
+	<nom>col-des-frettes</nom>
+	<altitude>2384</altitude>
+	<x>31</x>
+	<y>17</y>
+</point>
+<point>
+	<numero>24</numero>
+	<nom>24</nom>
+	<altitude>2280</altitude>
+</point>
+<point>
+	<numero>25</numero>
+	<nom>25</nom>
+	<altitude>2294</altitude>
+</point>
+<point>
+	<numero>26</numero>
+	<nom>col-de-la-chal</nom>
+	<altitude>2600</altitude>
+	<x>36</x>
+	<y>14</y>
+</point>
+<point>
+	<numero>27</numero>
+	<nom>27</nom>
+	<altitude>2275</altitude>
+</point>
+<point>
+	<numero>28</numero>
+	<nom>28</nom>
+	<altitude>1750</altitude>
+</point>
+<point>
+	<numero>29</numero>
+	<nom>29</nom>
+	<altitude>1850</altitude>
+</point>
+<point>
+	<numero>30</numero>
+	<nom>arc1600</nom>
+	<altitude>1613</altitude>
+	<x>32</x>
+	<y>27</y>
+</point>
+<point>
+	<numero>31</numero>
+	<nom>31</nom>
+	<altitude>2050</altitude>
+</point>
+<point>
+	<numero>32</numero>
+	<nom>col-du-grand-renard</nom>
+	<altitude>2454</altitude>
+	<x>36</x>
+	<y>16</y>
+</point>
+<point>
+	<numero>33</numero>
+	<nom>33</nom>
+	<altitude>2150</altitude>
+</point>
+<point>
+	<numero>34</numero>
+	<nom>34</nom>
+	<altitude>1920</altitude>
+</point>
+<point>
+	<numero>35</numero>
+	<nom>35</nom>
+	<altitude>1830</altitude>
+</point>
+<point>
+	<numero>36</numero>
+	<nom>arc1800</nom>
+	<altitude>1715</altitude>
+	<x>42</x>
+	<y>24</y>
+</point>
+<point>
+	<numero>37</numero>
+	<nom>37</nom>
+	<altitude>2100</altitude>
+</point>
+<remontee>
+	<numero>1</numero>
+	<nom>aiguille-rouge</nom>
+	<type>TPH</type>
+	<depart>12</depart>
+	<arrivee>5</arrivee>
+	<tpsFixe>240</tpsFixe>
+	<tpsDenivele>120</tpsDenivele>
+</remontee>
+<piste>
+	<numero>2</numero>
+	<nom>aiguille-rouge1</nom>
+	<type>N</type>
+	<depart>5</depart>
+	<arrivee>4</arrivee>
+	<tpsDenivele>300</tpsDenivele>
+</piste>
+<piste>
+	<numero>3</numero>
+	<nom>aiguille-rouge2</nom>
+	<type>N</type>
+	<depart>4</depart>
+	<arrivee>3</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>4</numero>
+	<nom>aiguille-rouge3</nom>
+	<type>N</type>
+	<depart>3</depart>
+	<arrivee>2</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>5</numero>
+	<nom>aiguille-rouge4</nom>
+	<type>N</type>
+	<depart>2</depart>
+	<arrivee>1</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>6</numero>
+	<nom>arandeliere</nom>
+	<type>R</type>
+	<depart>5</depart>
+	<arrivee>12</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>7</numero>
+	<nom>arpette</nom>
+	<type>TS</type>
+	<depart>31</depart>
+	<arrivee>15</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>8</numero>
+	<nom>belvedere1</nom>
+	<type>B</type>
+	<depart>18</depart>
+	<arrivee>19</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>9</numero>
+	<nom>belvedere2</nom>
+	<type>B</type>
+	<depart>19</depart>
+	<arrivee>31</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>10</numero>
+	<nom>belvedere3</nom>
+	<type>B</type>
+	<depart>31</depart>
+	<arrivee>35</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>11</numero>
+	<nom>bois-de-l'ours</nom>
+	<type>TS</type>
+	<depart>10</depart>
+	<arrivee>15</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>12</numero>
+	<nom>bosses</nom>
+	<type>TK</type>
+	<depart>16</depart>
+	<arrivee>26</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>13</numero>
+	<nom>cachette</nom>
+	<type>R</type>
+	<depart>21</depart>
+	<arrivee>30</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>14</numero>
+	<nom>cachette</nom>
+	<type>TSD</type>
+	<depart>30</depart>
+	<arrivee>21</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<piste>
+	<numero>15</numero>
+	<nom>carreley</nom>
+	<type>R</type>
+	<depart>31</depart>
+	<arrivee>36</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>16</numero>
+	<nom>carreley</nom>
+	<type>TS</type>
+	<depart>36</depart>
+	<arrivee>31</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>17</numero>
+	<nom>cascade</nom>
+	<type>B</type>
+	<depart>10</depart>
+	<arrivee>8</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>18</numero>
+	<nom>chantel</nom>
+	<type>B</type>
+	<depart>34</depart>
+	<arrivee>36</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>19</numero>
+	<nom>chantel</nom>
+	<type>TS</type>
+	<depart>36</depart>
+	<arrivee>34</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>20</numero>
+	<nom>clair-blanc</nom>
+	<type>R</type>
+	<depart>15</depart>
+	<arrivee>31</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>21</numero>
+	<nom>clair-blanc</nom>
+	<type>TS</type>
+	<depart>31</depart>
+	<arrivee>22</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>22</numero>
+	<nom>clapet</nom>
+	<type>B</type>
+	<depart>17</depart>
+	<arrivee>21</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>23</numero>
+	<nom>clocheret</nom>
+	<type>R</type>
+	<depart>17</depart>
+	<arrivee>31</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>24</numero>
+	<nom>clocheret</nom>
+	<type>TS</type>
+	<depart>31</depart>
+	<arrivee>17</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>25</numero>
+	<nom>col-de-la-chal</nom>
+	<type>B</type>
+	<depart>26</depart>
+	<arrivee>14</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>26</numero>
+	<nom>col-des-frettes</nom>
+	<type>R</type>
+	<depart>23</depart>
+	<arrivee>24</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>27</numero>
+	<nom>col-des-frettes</nom>
+	<type>TS</type>
+	<depart>31</depart>
+	<arrivee>23</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>28</numero>
+	<nom>col-du-renard</nom>
+	<type>B</type>
+	<depart>26</depart>
+	<arrivee>32</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>29</numero>
+	<nom>combes</nom>
+	<type>N</type>
+	<depart>4</depart>
+	<arrivee>6</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>30</numero>
+	<nom>combettes</nom>
+	<type>TS</type>
+	<depart>30</depart>
+	<arrivee>28</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>31</numero>
+	<nom>comborciere</nom>
+	<type>N</type>
+	<depart>18</depart>
+	<arrivee>8</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>32</numero>
+	<nom>comborciere</nom>
+	<type>TS</type>
+	<depart>8</depart>
+	<arrivee>18</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>33</numero>
+	<nom>dent-du-peigne</nom>
+	<type>B</type>
+	<depart>32</depart>
+	<arrivee>25</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>34</numero>
+	<nom>deux-tetes</nom>
+	<type>TK</type>
+	<depart>20</depart>
+	<arrivee>19</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>35</numero>
+	<nom>deux-tetes</nom>
+	<type>N</type>
+	<depart>19</depart>
+	<arrivee>20</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>36</numero>
+	<nom>dou-de-l-homme</nom>
+	<type>N</type>
+	<depart>12</depart>
+	<arrivee>11</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>37</numero>
+	<nom>droset</nom>
+	<type>N</type>
+	<depart>4</depart>
+	<arrivee>8</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>38</numero>
+	<nom>fond-blanc</nom>
+	<type>B</type>
+	<depart>22</depart>
+	<arrivee>31</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>39</numero>
+	<nom>fond-blanc</nom>
+	<type>N</type>
+	<depart>15</depart>
+	<arrivee>22</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>40</numero>
+	<nom>frettes</nom>
+	<type>TK</type>
+	<depart>31</depart>
+	<arrivee>24</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>41</numero>
+	<nom>froide-fontaine</nom>
+	<type>R</type>
+	<depart>27</depart>
+	<arrivee>31</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>42</numero>
+	<nom>genepy</nom>
+	<type>N</type>
+	<depart>5</depart>
+	<arrivee>6</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<piste>
+	<numero>43</numero>
+	<nom>gollet</nom>
+	<type>B</type>
+	<depart>31</depart>
+	<arrivee>30</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>44</numero>
+	<nom>gollet</nom>
+	<type>TS</type>
+	<depart>30</depart>
+	<arrivee>31</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>45</numero>
+	<nom>grand-col</nom>
+	<type>R</type>
+	<depart>13</depart>
+	<arrivee>14</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>46</numero>
+	<nom>grand-col</nom>
+	<type>TS</type>
+	<depart>14</depart>
+	<arrivee>13</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>47</numero>
+	<nom>grand-renard</nom>
+	<type>R</type>
+	<depart>32</depart>
+	<arrivee>33</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>48</numero>
+	<nom>grand-renard</nom>
+	<type>TS</type>
+	<depart>33</depart>
+	<arrivee>32</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>49</numero>
+	<nom>lac-combes</nom>
+	<type>TK</type>
+	<depart>7</depart>
+	<arrivee>6</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>50</numero>
+	<nom>lanches</nom>
+	<type>N</type>
+	<depart>12</depart>
+	<arrivee>9</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>51</numero>
+	<nom>lanchettes</nom>
+	<type>TS</type>
+	<depart>7</depart>
+	<arrivee>4</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>52</numero>
+	<nom>malgovert</nom>
+	<type>R</type>
+	<depart>18</depart>
+	<arrivee>20</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>53</numero>
+	<nom>marmotte</nom>
+	<type>TK</type>
+	<depart>10</depart>
+	<arrivee>11</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>54</numero>
+	<nom>marmottes</nom>
+	<type>B</type>
+	<depart>11</depart>
+	<arrivee>10</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>55</numero>
+	<nom>mont-blanc</nom>
+	<type>B</type>
+	<depart>20</depart>
+	<arrivee>30</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>56</numero>
+	<nom>mont-blanc</nom>
+	<type>TS</type>
+	<depart>30</depart>
+	<arrivee>20</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>57</numero>
+	<nom>muguet</nom>
+	<type>N</type>
+	<depart>17</depart>
+	<arrivee>8</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<navette>
+	<numero>58</numero>
+	<nom>navette1600-1800</nom>
+	<type>BUS</type>
+	<depart>30</depart>
+	<arrivee>36</arrivee>
+	<tpsTrajet>1800</tpsTrajet>
+</navette>
+<navette>
+	<numero>59</numero>
+	<nom>navette1800-1600</nom>
+	<type>BUS</type>
+	<depart>36</depart>
+	<arrivee>30</arrivee>
+	<tpsTrajet>1800</tpsTrajet>
+</navette>
+<navette>
+	<numero>60</numero>
+	<nom>navette1600-2000</nom>
+	<type>BUS</type>
+	<depart>30</depart>
+	<arrivee>7</arrivee>
+	<tpsTrajet>2400</tpsTrajet>
+</navette>
+<navette>
+	<numero>61</numero>
+	<nom>navette2000-1600</nom>
+	<type>BUS</type>
+	<depart>7</depart>
+	<arrivee>30</arrivee>
+	<tpsTrajet>2400</tpsTrajet>
+</navette>
+<piste>
+	<numero>62</numero>
+	<nom>ours</nom>
+	<type>N</type>
+	<depart>15</depart>
+	<arrivee>10</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>63</numero>
+	<nom>plagnettes</nom>
+	<type>TSD</type>
+	<depart>11</depart>
+	<arrivee>26</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<piste>
+	<numero>64</numero>
+	<nom>plan</nom>
+	<type>B</type>
+	<depart>23</depart>
+	<arrivee>11</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>65</numero>
+	<nom>plan-des-eaux</nom>
+	<type>B</type>
+	<depart>26</depart>
+	<arrivee>16</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>66</numero>
+	<nom>plan-vert</nom>
+	<type>B</type>
+	<depart>26</depart>
+	<arrivee>25</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>67</numero>
+	<nom>plan-vert</nom>
+	<type>TK</type>
+	<depart>25</depart>
+	<arrivee>26</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>68</numero>
+	<nom>plan-violettes</nom>
+	<type>TS</type>
+	<depart>2</depart>
+	<arrivee>3</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>69</numero>
+	<nom>pre-saint-esprit</nom>
+	<type>TS</type>
+	<depart>8</depart>
+	<arrivee>11</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>70</numero>
+	<nom>refuge</nom>
+	<type>N</type>
+	<depart>13</depart>
+	<arrivee>14</arrivee>
+	<tpsDenivele>120</tpsDenivele>
+</piste>
+<remontee>
+	<numero>71</numero>
+	<nom>replat</nom>
+	<type>TS</type>
+	<depart>1</depart>
+	<arrivee>2</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>72</numero>
+	<nom>reservoir</nom>
+	<type>R</type>
+	<depart>4</depart>
+	<arrivee>6</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>73</numero>
+	<nom>rhonaz</nom>
+	<type>B</type>
+	<depart>3</depart>
+	<arrivee>8</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>74</numero>
+	<nom>saint-jacques</nom>
+	<type>B</type>
+	<depart>11</depart>
+	<arrivee>9</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>75</numero>
+	<nom>saint-jacques</nom>
+	<type>TS</type>
+	<depart>9</depart>
+	<arrivee>11</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>77</numero>
+	<nom>soliet1</nom>
+	<type>R</type>
+	<depart>4</depart>
+	<arrivee>3</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>78</numero>
+	<nom>soliet2</nom>
+	<type>R</type>
+	<depart>3</depart>
+	<arrivee>2</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>79</numero>
+	<nom>soliet3</nom>
+	<type>R</type>
+	<depart>2</depart>
+	<arrivee>1</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<piste>
+	<numero>80</numero>
+	<nom>tetras</nom>
+	<type>R</type>
+	<depart>27</depart>
+	<arrivee>35</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>81</numero>
+	<nom>tommelet</nom>
+	<type>TK</type>
+	<depart>30</depart>
+	<arrivee>29</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>82</numero>
+	<nom>transarc1</nom>
+	<type>TC</type>
+	<depart>36</depart>
+	<arrivee>37</arrivee>
+	<tpsFixe>120</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>83</numero>
+	<nom>transarc2</nom>
+	<type>TC</type>
+	<depart>37</depart>
+	<arrivee>26</arrivee>
+	<tpsFixe>120</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<piste>
+	<numero>84</numero>
+	<nom>tuffes</nom>
+	<type>R</type>
+	<depart>26</depart>
+	<arrivee>16</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>85</numero>
+	<nom>vagere</nom>
+	<type>TK</type>
+	<depart>35</depart>
+	<arrivee>27</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>86</numero>
+	<nom>vallee-de-l-arc1</nom>
+	<type>B</type>
+	<depart>14</depart>
+	<arrivee>16</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>87</numero>
+	<nom>vallee-de-l-arc2</nom>
+	<type>B</type>
+	<depart>16</depart>
+	<arrivee>11</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>88</numero>
+	<nom>vallee-de-l-arc</nom>
+	<type>R</type>
+	<depart>11</depart>
+	<arrivee>10</arrivee>
+	<tpsDenivele>180</tpsDenivele>
+</piste>
+<remontee>
+	<numero>89</numero>
+	<nom>varet</nom>
+	<type>TC</type>
+	<depart>9</depart>
+	<arrivee>12</arrivee>
+	<tpsFixe>120</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<remontee>
+	<numero>90</numero>
+	<nom>vezaille</nom>
+	<type>TK</type>
+	<depart>28</depart>
+	<arrivee>29</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>240</tpsDenivele>
+</remontee>
+<piste>
+	<numero>91</numero>
+	<nom>villards</nom>
+	<type>B</type>
+	<depart>37</depart>
+	<arrivee>36</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<remontee>
+	<numero>92</numero>
+	<nom>villards</nom>
+	<type>TSD</type>
+	<depart>36</depart>
+	<arrivee>33</arrivee>
+	<tpsFixe>60</tpsFixe>
+	<tpsDenivele>180</tpsDenivele>
+</remontee>
+<piste>
+	<numero>93</numero>
+	<nom>villaroger1</nom>
+	<type>B</type>
+	<depart>8</depart>
+	<arrivee>2</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+<piste>
+	<numero>94</numero>
+	<nom>villaroger2</nom>
+	<type>B</type>
+	<depart>2</depart>
+	<arrivee>1</arrivee>
+	<tpsDenivele>240</tpsDenivele>
+</piste>
+</docbase>
